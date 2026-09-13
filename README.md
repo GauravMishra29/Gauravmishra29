@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./github-banner.png" width="100%" alt="Gaurav Mishra GitHub Banner">
+</div>
+
 # 👋 Hi, I'm Gaurav Mishra
 
 ### 💻 PHP & Laravel Developer | Full Stack Developer
