@@ -2,7 +2,7 @@
   <img src="./github-banner.png" width="100%" alt="Gaurav Mishra GitHub Banner">
 </div>
 
-# 👋 Hi, I'm Gaurav Mishra
+# 👋 Hi, I'm Gaurav Mishra 
 
 ### 💻 PHP & Laravel Developer | Full Stack Developer
 
@@ -69,7 +69,7 @@ University management related web application.
 
 **Tech:** Laravel, Blade
 
-### 🎵 Spotify Clone
+### 🎵 Spotify Clone 
 A music streaming interface inspired by Spotify.
 
 **Tech:** HTML, CSS
