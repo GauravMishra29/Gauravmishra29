@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Gaurav Mishra 
 
-### 💻 PHP & Laravel Developer | Full Stack Developer
+### 💻 PHP & Laravel Developer | Full Stack Developer 
 
 I am a passionate Computer Science graduate and PHP/Laravel Developer who enjoys building web applications, REST APIs and user-friendly interfaces.
 
